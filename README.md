@@ -153,7 +153,7 @@ public/
 
 `astro.config.mjs` uses `https://andrew-notag.github.io` as the canonical site URL. In the repository's Pages settings, select **GitHub Actions** as the source.
 
-After pushing changes to `main`, open **Actions → Publish Portfolio → Run workflow** and choose `main`. The workflow builds the site with Node.js 22 and publishes `dist/` to GitHub Pages.
+Every push to `main` triggers **Publish Portfolio**, which builds the site with Node.js 22 and publishes `dist/` to GitHub Pages. To republish manually, open **Actions → Publish Portfolio → Run workflow** and choose `main`.
 
 ## License
 
