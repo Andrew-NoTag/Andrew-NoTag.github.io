@@ -1,0 +1,35 @@
+label: "02 // EXPERIENCE"
+heading: "Professional Trajectory"
+
+jobs:
+  - company: "Jobro"
+    url: "https://jobrohk.com/"
+    role: "Full Stack Developer"
+    dateRange: "Jun 2025 &ndash; Aug 2025"
+    description: >-
+      Developed and tested Jobro's recruiting app for Android and iOS.
+      Contributed to a swipe-to-apply workflow that used uniCloud to parse résumés,
+      DeepSeek to generate job-specific summaries, and an email queue to send applications with attachments.
+      Built a WeCom QR support page, added a platform-specific build condition for Apple sign-in,
+      and updated the animation renderer to import lottie-web as a declared dependency.
+    tech:
+      - uni-app
+      - Vue 2
+      - HBuilder
+      - uniCloud
+      - DeepSeek
+      - lottie-web
+
+  - company: "NYU Tandon CSSA"
+    url: "https://nyutandoncssa.com"
+    role: "Information Technology Group Leader"
+    dateRange: "Sep 2023 &ndash; Present"
+    description: >-
+      Led development of Voice of NYC and built a stage-control app used at a CSSA live show.
+      Built an Apollo Server GraphQL API for lighting and participant selections,
+      using subscriptions to keep the shared display in sync.
+      Led a React redesign of the CSSA homepage and navigation and built a rotating gallery.
+    tech:
+      - React
+      - GraphQL
+      - Apollo Server

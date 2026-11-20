@@ -1,0 +1,14 @@
+subtitle: "SOFTWARE ENGINEER"
+name: "ANDREW ZHANG"
+icon: "srupsmbe"
+description: "I build web and mobile applications, from real-time voting to parking search. I study computer science at NYU and explore optimization through projects in Python."
+
+cta:
+  viewWork:
+    label: "View Work"
+    href: "#projects"
+    icon: "zhiiqoue"
+  getInTouch:
+    label: "Get in Touch"
+    href: "#contact"
+    icon: "vcdutftw"

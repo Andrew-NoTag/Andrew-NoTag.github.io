@@ -1,0 +1,56 @@
+label: "03 // PROJECTS"
+heading: "Engineering Artifacts"
+
+statuses:
+  - label: "All"
+  - label: "Research"
+    color: "#2E5090"
+  - label: "Mobile"
+    color: "#2D8A56"
+  - label: "Web"
+    color: "#6B7280"
+
+items:
+  - title: "Software Release Planning Optimization"
+    subtitle: "Next Release Problem benchmark · May 2026"
+    description: >-
+      Co-developed a Python benchmark that uses SciPy sparse matrices to score customer value under a development budget.
+      We compared five search methods on Xuan’s nrp-e1 instance across 30 seeded runs, with a nominal budget of 50,000 fitness evaluations per run.
+      On that instance, a genetic algorithm with adaptive mutation based on the 1/5 rule achieved higher mean best-so-far profit than one with fixed mutation.
+    icon: "lvrxlmju"
+    status: "Research"
+    featured: true
+    tech:
+      - Python
+      - SciPy
+
+  - title: "Parker"
+    subtitle: "iOS parking finder · May 2025"
+    description: >-
+      Built a FastAPI endpoint that ranks nearby parking records by distance and joins schedule restrictions in PostgreSQL,
+      using 121,778 parking records and 6,758 restriction rows.
+      A SwiftUI and MapKit map color-codes parking status and restrictions.
+      A reporting endpoint updates the closest parking record from a driver’s coordinates.
+    icon: "oqhqyeud"
+    status: "Mobile"
+    featured: true
+    tech:
+      - SwiftUI
+      - MapKit
+      - FastAPI
+      - PostgreSQL
+
+  - title: "Voice of NYC"
+    subtitle: "Real-time voting platform · 2024–2025"
+    description: >-
+      Built two React voting interfaces, with a dedicated panel for judges and QR-code access for the audience.
+      Implemented voting windows and weighted tallies for both groups with Node.js and Express.
+      Used Socket.IO to synchronize connected clients and built an animated display to reveal the winner.
+    icon: "exymduqj"
+    status: "Web"
+    featured: true
+    tech:
+      - React
+      - Node.js
+      - Express.js
+      - Socket.IO

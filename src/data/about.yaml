@@ -1,0 +1,18 @@
+label: "01 // ABOUT"
+heading: "Building software for web and mobile"
+
+paragraphs:
+  - 'I''m a software developer based in <strong class="text-ink">Jersey City, NJ</strong> and a computer science graduate student at <strong class="text-ink">New York University</strong>. I work across the stack, from mobile interfaces to APIs and real-time systems.'
+  - 'At <strong class="text-ink">Jobro</strong>, I developed and tested a cross-platform recruiting app. As IT group leader at <strong class="text-ink">NYU Tandon CSSA</strong>, I led development of a live voting platform and built tooling for event staff.'
+  - 'My recent projects include an iOS parking finder that maps parking status and schedule restrictions, and a Python benchmark for comparing software release plans under a development budget.'
+
+stats:
+  - value: "30"
+    label: "Seeded release benchmark runs"
+    icon: "kbtmbyzy"
+  - value: "121,778"
+    label: "Parking records in Parker"
+    icon: "vbmtnozn"
+  - value: "2"
+    label: "Mobile platforms tested at Jobro"
+    icon: "yvjimpju"

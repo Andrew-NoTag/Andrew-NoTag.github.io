@@ -1,0 +1,38 @@
+# Site-wide metadata
+title: "Andrew Zhang - Software Engineer"
+description: "Andrew Zhang is a software developer and NYU computer science graduate student working on web and mobile applications, real-time systems, and optimization."
+name: "andrew zhang"
+fullName: "Andrew Zhang"
+email: "andrewzhangnotag@gmail.com"
+lang: "en"
+ogImage: "/og.png"
+themeColor: "#2E5090"
+
+# Social links
+social:
+  - label: "GitHub"
+    url: "https://github.com/Andrew-NoTag"
+    icon: "jjxzcivr"
+  - label: "LinkedIn"
+    url: "https://www.linkedin.com/in/jianheng-andrew-zhang/"
+    icon: "euybrknk"
+# Navigation items
+nav:
+  - label: "About"
+    href: "#about"
+    icon: "kdduutaw"
+  - label: "Work"
+    href: "#experience"
+    icon: "zhiiqoue"
+  - label: "Projects"
+    href: "#projects"
+    icon: "tsrgicte"
+  - label: "Skills"
+    href: "#skills"
+    icon: "fwkrbvja"
+  - label: "Education"
+    href: "#education"
+    icon: "vvyxyrur"
+  - label: "Contact"
+    href: "#contact"
+    icon: "ozlkyfxg"

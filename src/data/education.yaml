@@ -1,0 +1,20 @@
+label: "05 // EDUCATION"
+heading: "Education"
+
+institution: "New York University"
+
+degrees:
+  - degree: "M.S. in Computer Science"
+    dateRange: "Jan 2026 – May 2027 (expected)"
+    highlights:
+      - text: "GPA 3.89 / 4.0"
+        icon: "lewtedlh"
+        featured: true
+  - degree: "B.S. in Computer Science"
+    dateRange: "Sep 2022 – Dec 2025"
+    highlights:
+      - text: "GPA 3.81 / 4.0"
+        icon: "lewtedlh"
+        featured: true
+      - text: "Minors in Mathematics and Cybersecurity"
+        icon: "rrbmabsx"

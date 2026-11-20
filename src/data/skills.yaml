@@ -1,0 +1,50 @@
+label: "04 // SKILLS"
+heading: "Technical Taxonomy"
+
+categories:
+  - name: "Languages"
+    icon: "lzgmgrnn"
+    items:
+      - Python
+      - C++
+      - JavaScript
+      - TypeScript
+      - Swift
+      - SQL
+      - HTML5
+      - CSS3
+
+  - name: "Web & APIs"
+    icon: "gvtjlyjf"
+    items:
+      - FastAPI
+      - React
+      - Vue 2
+      - Node.js
+      - Express.js
+      - GraphQL
+      - Apollo Server
+      - Socket.IO
+
+  - name: "Data & Optimization"
+    icon: "xqdfobxg"
+    items:
+      - PostgreSQL
+      - MySQL
+      - MongoDB
+      - NumPy
+      - SciPy
+      - DEAP
+
+  - name: "Mobile & Tooling"
+    icon: "kikjlzqr"
+    items:
+      - SwiftUI
+      - MapKit
+      - uni-app
+      - HBuilder
+      - Git
+      - GitHub Actions
+      - Docker
+      - Vitest
+      - Figma
